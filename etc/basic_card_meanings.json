@@ -1,0 +1,38 @@
+[
+	{
+		"rank" : "A",
+		"suit" : "C",
+		"event" [
+			{"type": "exploration"},
+			{"description" : "valuable natural resources discovered inside the region"},
+			{"outcome" : "wealth increase"},
+		],
+	},
+	{
+		"rank" : "A",
+		"suit" : "D",
+		"event" [
+			{"type": "violence"},
+			{"description" : "people overthrown local rulers and replace them"},
+			{"outcome" : null },
+		],
+	},
+	{
+		"rank" : "A",
+		"suit" : "H",
+		"event" [
+			{"type": "hardship"},
+			{"description" : "lost tribe carrying strange disease discovered causing many deaths"},
+			{"outcome" : "population decrease"},
+		],
+	},
+	{
+		"rank" : "A",
+		"suit" : "S",
+		"event" [
+			{"type": "diplomacy"},
+			{"description" : "trade agreements with neighbor(s) brings wealth and resources"},
+			{"outcome" : "trade increase"},
+		],
+	},
+]
