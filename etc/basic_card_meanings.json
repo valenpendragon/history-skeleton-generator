@@ -14,7 +14,7 @@
 		"event" [
 			{"type": "violence"},
 			{"description" : "people overthrown local rulers and replace them"},
-			{"outcome" : null },
+			{"outcome" : "government change" },
 		],
 	},
 	{
